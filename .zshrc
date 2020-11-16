@@ -1,1 +1,0 @@
-export ANDROID_SDK_ROOT=C:\Users\PC-GAMER\AppData\Local\Android\Sdk
